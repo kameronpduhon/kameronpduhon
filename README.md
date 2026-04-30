@@ -1,16 +1,29 @@
-## Hi there 👋
+ ### Hey, I'm Kameron
 
-<!--
-**kameronpduhon/kameronpduhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  CS senior at the University of Louisiana at Lafayette, graduating May 2026. Most of what I build lately falls into one of two buckets: voice AI agents, and full-stack
+  web apps.
 
-Here are some ideas to get you started:
+  #### What I'm working on right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Project Winz** is a voice AI that handles inbound phone calls for home service companies (HVAC, plumbing, electrical). Built on LiveKit, Twilio SIP, and Gemini. Currently in testing.
+  Family business with my dad. Repo is private.
+
+  #### Things I've shipped
+
+  - **PulseTurf** — med spa competitive intelligence SaaS. Laravel 12, Livewire, OpenAI GPT-4o-mini for AI-generated weekly digests, Outscraper for review collection, Stripe Cashier for
+  billing. I launched it, didn't get traction, shut down the servers a couple months later. Learned a ton about what to build next.
+  - **MoneyMap** — personal expense tracker. Node, Express, Supabase. Recurring expenses, budgets, dashboards, CSV export.
+  - **Wedding planning SaaS** — built it for my fiancée, she didn't end up using it. Still a real Next.js 16 + Supabase + Stripe app under the hood.
+  - **BLVD voice agent** — earlier iteration of the voice agent work. State machine, 10 intent flows, runs on LiveKit + Deepgram + GPT-4.1-mini.
+
+  Public versions of these are getting cleaned up and pushed soon. Pinned repos will fill in over the next week.
+
+  #### Stack I use most
+
+  Python, JavaScript, TypeScript, PHP. Laravel, Next.js, Express. Supabase, Postgres, MySQL. LiveKit, Twilio, Deepgram. Docker.
+
+  #### Looking for
+
+  Software engineering roles. Remote, or local to the Acadiana / Lafayette LA area. Voice AI, agents, backend, or full-stack. Happy to talk.
+
+  Email: kameronpduhon@gmail.com
