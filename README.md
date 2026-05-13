@@ -5,7 +5,7 @@
 
   #### What I'm working on right now
 
-  **Project Winz** is a voice AI that handles inbound phone calls for home service companies (HVAC, plumbing, electrical). Built on LiveKit, Twilio SIP, and Gemini. Currently in testing.
+  **Project Winz** is a voice AI that handles inbound phone calls. Built on LiveKit, Twilio SIP, and Gemini. Currently in testing.
   Repo is private.
 
   #### Things I've shipped
