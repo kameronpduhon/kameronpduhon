@@ -14,7 +14,6 @@
   billing. I launched it, didn't get traction, shut down the servers a couple months later. Learned a ton about what to build next.
   - **MoneyMap** — personal expense tracker. Node, Express, Supabase. Recurring expenses, budgets, dashboards, CSV export.
   - **Wedding planning SaaS** — built it for my fiancée, she didn't end up using it. Still a real Next.js 16 + Supabase + Stripe app under the hood.
-  - **BLVD voice agent** — earlier iteration of the voice agent work. State machine, 10 intent flows, runs on LiveKit + Deepgram + GPT-4.1-mini.
 
   Public versions of these are getting cleaned up and pushed soon. Pinned repos will fill in over the next week.
 
